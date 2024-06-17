@@ -1,5 +1,3 @@
-* 2023/10/24
-* 2024/6/4 浏览并添加了生成angrist1999_data
 clear
 cd /Users/zhangshuai/Desktop/interest/krueger1999_replication // 修改默认目录
 
@@ -198,5 +196,4 @@ gen kinder_m = kinder/classsize
 * SAT dif
 gen SAT_dif = SAT - l.SAT
 
-save data, replace 
 save krueger1999_data, replace
