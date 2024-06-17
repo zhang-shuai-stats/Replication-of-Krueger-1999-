@@ -1,4 +1,3 @@
-* 2023/6/4
 clear
 cd /Users/zhangshuai/Desktop/interest/krueger1999_replication // 修改默认目录
 
