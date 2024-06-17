@@ -1,4 +1,3 @@
-* 2024/6/13
 clear
 cd /Users/zhangshuai/Desktop/interest/angrist1998_replication // 修改默认目录
 
